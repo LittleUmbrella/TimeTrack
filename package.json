@@ -1,0 +1,19 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "simple time tracking app",
+  "main": "track.js",
+  "scripts": {
+    "test": "test",
+    "start": "node track.js"
+  },
+  "keywords": [
+    "time",
+    "track"
+  ],
+  "author": "Toby Farris",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.2.0"
+  }
+}
