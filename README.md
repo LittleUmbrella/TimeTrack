@@ -53,4 +53,7 @@ your choice, of course.
 So now you have this file, but then what?  Add all the times up
 manually?  That's actually what I used to do when I had a file 
 with more complexity.  But I am giving up the needless complextiy 
-and I built [track](track.js) to sum up the times, per week.
+and I built [track](track.js) to sum up the times, per week.  To 
+use, just type
+
+`node track`
