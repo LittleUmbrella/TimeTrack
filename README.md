@@ -51,5 +51,6 @@ your choice, of course.
 
 ## Tracking
 So now you have this file, but then what?  Add all the times up
-manually?  That's actually what I used to do!  But now there is 
-[track](track.js) that sums up the times, per week.
+manually?  That's actually what I used to do when I had a file 
+with more complexity.  But I am giving up the needless complextiy 
+and I built [track](track.js) to sum up the times, per week.
